@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 2 Nerds Solutions
+# 👾 Nerds Lab
 
 ### *Two nerds. One GitHub org. Zero adult supervision.*
 
