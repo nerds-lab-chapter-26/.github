@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👾 Nerds Lab
+# Nerds Lab
 
-### *A couple of nerds. One GitHub org. Zero adult supervision.*
+### A couple of nerds. One GitHub org. Zero adult supervision.
 
 [![Nerd Level](https://img.shields.io/badge/nerd_level-over_9000-blueviolet)](#)
 [![Coffee Powered](https://img.shields.io/badge/runs_on-coffee%20%26%20stackoverflow-yellow)](#)
@@ -12,13 +12,13 @@
 
 ---
 
-## 🤓 Who are we?
+## Who are we?
 
-We're **Nerds Lab** — we got tired of doing things the boring, manual way — so we automate it, script it, and ship it instead. No fancy pitch decks, no "synergy," just two people who like solving small annoying problems really, really well.
+We're Nerds Lab. We got tired of doing things the boring, manual way, so we automate it, script it, and ship it instead. No fancy pitch decks, no "synergy," just two people who like solving small annoying problems really, really well.
 
-If it can be turned into a script, a CLI, or an unnecessarily over-engineered tool — we've probably already opened a terminal for it.
+If it can be turned into a script, a CLI, or an unnecessarily over-engineered tool, we've probably already opened a terminal for it.
 
-## 🛠️ Our tech diet
+## Our tech diet
 
 ```
 Frontend:  React, Next.js, whatever renders fastest
@@ -27,13 +27,13 @@ Debugging: console.log() and blind faith
 Snacks:    mandatory
 ```
 
-## ⭐ Why star our stuff?
+## Why star our stuff?
 
-Every ⭐ makes a nerd's day noticeably better. It costs you nothing and it's basically a virtual high-five. We'll take it.
+Every star makes a nerd's day noticeably better. It costs you nothing and it's basically a virtual high-five. We'll take it.
 
-## 📬 Say hi
+## Say hi
 
-Found a bug in one of our repos? Have an idea? Just want to talk about how much better life is with automation? Open an issue — we actually read them.
+Found a bug in one of our repos? Have an idea? Just want to talk about how much better life is with automation? Open an issue, we actually read them.
 
 <div align="center">
 
