@@ -2,7 +2,7 @@
 
 # 👾 Nerds Lab
 
-### *Nerds Lab. One GitHub org. Zero adult supervision.*
+### *A couple of nerds. One GitHub org. Zero adult supervision.*
 
 [![Nerd Level](https://img.shields.io/badge/nerd_level-over_9000-blueviolet)](#)
 [![Coffee Powered](https://img.shields.io/badge/runs_on-coffee%20%26%20stackoverflow-yellow)](#)
@@ -14,7 +14,7 @@
 
 ## 🤓 Who are we?
 
-We're **Nerds Lab** who got tired of doing things the boring, manual way — so we automate it, script it, and ship it instead. No fancy pitch decks, no "synergy," just two people who like solving small annoying problems really, really well.
+We're **Nerds Lab** — we got tired of doing things the boring, manual way — so we automate it, script it, and ship it instead. No fancy pitch decks, no "synergy," just two people who like solving small annoying problems really, really well.
 
 If it can be turned into a script, a CLI, or an unnecessarily over-engineered tool — we've probably already opened a terminal for it.
 
