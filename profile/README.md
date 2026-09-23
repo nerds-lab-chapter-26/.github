@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="nerds.png" alt="Nerds Lab Chapter 26" width="200" />
+
 # Nerds Lab
 
 ### A couple of nerds. One GitHub org. Zero adult supervision.
